@@ -1,6 +1,6 @@
 # DeepExplore_vs_VFI
-A repository for reproducing the results in my undergraduate thesis "Examining a Method from Deep Reinforcement Learning as an Alternative
-to Value Function Iteration".
+A repository for reproducing the results in my Undergraduate Thesis "Examining a Method from Deep Reinforcement Learning as an Alternative
+to Value Function Iteration" at the University of Copenhagen, Department of Economics under supervision of Associate Professor Jeppe Druedahl
 
 ## Files
 
